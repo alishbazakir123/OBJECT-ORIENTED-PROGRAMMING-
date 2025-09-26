@@ -1,0 +1,9 @@
+Object-Oriented Programming (OOP) is a programming paradigm based on the concept of "objects," which are instances of classes. These objects can contain data in the form of fields (attributes) and code in the form of methods (functions). OOP promotes modularity, reusability, and scalability through key principles like:
+
+Encapsulation: Bundling data and methods that operate on that data.
+
+Inheritance: Creating new classes from existing ones to reuse code.
+
+Polymorphism: Allowing objects to be treated as instances of their parent class.
+
+Abstraction: Hiding complex implementation details and showing only essential features.
